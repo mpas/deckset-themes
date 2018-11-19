@@ -1,6 +1,6 @@
-# Deckset-themes
+# Deckset Themes
 
-In this repository you'll find custom themes for [Deckset](https://www.decksetapp.com).
+This repo contains themes that can be used in [Deckset](https://www.deckset.com/).
 
 ## How to use
 
@@ -10,4 +10,7 @@ When you import **Markdown** file in Deckset you'll probably see a _warning bann
 
 ## Themes
 
-1. Dark - Dark theme no fluff
+| Name             | Description                                      |
+|------------------|--------------------------------------------------|
+| Dark             | Dark theme no fluff                              |
+| Philips Research | Coorporate theme used for internal presentations |
